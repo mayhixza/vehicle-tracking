@@ -23,6 +23,6 @@ To run this project in Google Colab, click the "Open in Colab" button above. Fol
   
 Below is an example of a processed frame from the video. (Sample video source: https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/)
 
-![sample1_output (1) (1)](https://github.com/user-attachments/assets/94986cc9-f2b8-4e4d-b64c-e7b2e8783bfc)
+![sample1_output (1) (1)](https://github.com/user-attachments/assets/869951fe-56bd-4357-a48f-409737f87f39)
 
 You can change and experiment with other parameters supported by YOLOv8 to build upon this project using different datasets.
